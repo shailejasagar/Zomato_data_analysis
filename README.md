@@ -1,6 +1,6 @@
 # Zomato_data_analysis
 Overview
-This project involves analyzing a dataset from Zomato, a popular restaurant discovery platform, using Jupyter Notebook. The analysis aims to answer key questions related to restaurant types, customer ratings, and spending patterns. The dataset used in this project contains restaurant information such as location, type, customer ratings, votes, and cost for two people.
+This project involves analyzing a dataset from Zomato, a popular restaurant discovery platform, using Jupyter Notebook. The analysis aims to answer key questions related to restaurant types, customer ratings, and spending patterns. The dataset used in this project contains restaurant information such as, type, customer ratings, votes, and cost for two people.
 
 Key Questions Addressed:
 Which type of restaurant do most customers typically order from?
@@ -17,11 +17,11 @@ Insights and Findings: Answering the specific questions with data visualizations
 Dataset
 The dataset contains information about various restaurants, including:
 Restaurant name
-Type (e.g., Casual Dining, Quick Bites, Fine Dining, etc.)
+Online mode
 Rating
 Number of votes
 Average cost for two people
-Mode of operation (e.g., Delivery, Dine-in, Takeaway)
+Type of Restaurant (Buffet, dinning...)
 
 Libraries Used
 Pandas: Data manipulation and analysis.
